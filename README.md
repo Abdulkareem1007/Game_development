@@ -15,3 +15,14 @@ To play the game, clone the repository and run the following command:
 ```
 python flappy_bird.py
 ```
+Press the spacebar to make the bird fly and try to avoid the pipes!
+
+# Contributing
+Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
+
+# Credits
+* Game design inspired by the original Flappy Bird game.
+* Code written by [Abdul Kareem].
+
+# License
+This project is licensed.
