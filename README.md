@@ -8,3 +8,5 @@ To run this game, you need to have Python and Pygame installed on your system. Y
 
 ```bash
 pip install pygame
+```
+# Usage
